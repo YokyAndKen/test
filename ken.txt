@@ -1,4 +1,5 @@
 ken.txt
 ken.txt2
 <<<<<<< HEAD
-i will always be the knight.
+i will always be the knighto.
+WHken
