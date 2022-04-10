@@ -1,4 +1,4 @@
 ken.txt
 ken.txt2
-Ken luv Yoky
-
+<<<<<<< HEAD
+i will always be the knight.
